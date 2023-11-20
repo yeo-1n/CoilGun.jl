@@ -57,7 +57,7 @@ coilLen = 1.0inch |> m                  #The length of the Coil should be the ex
 coilHght = 2.3e-2m |> m                 #Distance from inner to outer diameter of the Coil
 wirerad = 1.6mm |> m                    #The radius of 14-guage wire including insulation
 resistor = 10Ω
-volts = 15V
+volts = 20V
 numberOfCoils = 10
 
 #Barrel Specifications
